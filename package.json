@@ -1,0 +1,21 @@
+{
+  "name": "brunch-starter",
+  "version": "1.0.0",
+  "description": "Starter website using Brunch",
+  "main": "index.js",
+  "repository": "git@github.com:chrisplatts01/brunch-starter.git",
+  "author": "Chris Platts <chris@virelai.co.uk>",
+  "license": "MIT",
+  "scripts": {
+    "build": "brunch build",
+    "watch": "brunch watch"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.4.1",
+    "brunch": "^2.10.17",
+    "jquery": "^3.4.1",
+    "nunjucks-brunch": "^0.3.3",
+    "sass-brunch": "^2.10.8"
+  },
+  "devDependencies": {}
+}
