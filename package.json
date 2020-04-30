@@ -13,7 +13,7 @@
   "dependencies": {
     "bootstrap-sass": "^3.4.1",
     "brunch": "^2.10.17",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "nunjucks-brunch": "^0.3.3",
     "sass-brunch": "^2.10.8"
   },
